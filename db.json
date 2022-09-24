@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "imprimante HPa",
+      "prix": 200,
+      "quantite": 30,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "scanner",
+      "prix": 500,
+      "quantite": 123,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Smartphon",
+      "quantite": "45",
+      "prix": "1300",
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "iphone 13",
+      "prix": "1600",
+      "quantite": "67",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
